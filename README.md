@@ -10,7 +10,7 @@ ___
 - Basic implementation of gradient descent with MSE loss function
 - House pirce prediction with above regression algorithms
 ___
---- **Regularization Methods.ipynb**:
+--- **regularization methods.ipynb**:
 
 *Different Regularization Methods in Polynomial Regression and Logistic Regression Classification*
 - Polynomial Regression
@@ -18,3 +18,11 @@ ___
 - Lasso Regression (L1 Regularization)
 - Logistic Regression
 ---
+**one-layer softmax classifier on mnist.ipynb:**
+
+*One-Layer Softmax Classifier with L2 Regularization on MNIST from Scratch*
+- Visualization
+- Preprocessing
+- Prediction with Random Normal Parameters
+- Building a Softmax Classifier from ground up
+- Results of Test Set
