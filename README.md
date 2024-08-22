@@ -1,8 +1,14 @@
-### Here I impelement some of the basic machine learning methods from scratch.
+## Here I impelement some of the basic machine learning methods from scratch.
 
 ## This repo is labled as <u>***TP***</u> \*Training Purposes\*
 =================================================
-# Projects:
+
+## Resources
+### I developed these projects using knowledge gained from the following resources:
+- [Youtube: Razavi, ML Workshop](https://youtube.com/playlist?list=PLW529xl11jnnQKMsV4u0qMsfZoXT2JzCg&si=DAzaYv30e2DHT4pH)
+---
+
+## Projects:
 
 ### --- **warm-up practice.ipynb:**
 - Create a 3D plot
